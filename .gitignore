@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.*
+
+# Keys and certificates
+*.key
+*.pem
+*.p12
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Google credentials and tokens
+google_token.json
+google_credentials.json
+google_client_secret.json
+google-ads.yaml
